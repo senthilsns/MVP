@@ -5,7 +5,7 @@ Platform : Xcode 10
 Language : Swift 4.2
 
 
-Model is an interface responsible for the domain data (to be displayed or otherwise acted upon in the GUI)
+Model is an interface  responsible for the domain data (to be displayed or otherwise acted upon in the GUI)
 
 View is responsible for the presentation layer (GUI)
 
